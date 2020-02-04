@@ -1,0 +1,10 @@
+C:\Users\dauks\source\repos\WebApi\WebApiCommonn\bin\Debug\netcoreapp3.0\WebApiCommon.deps.json
+C:\Users\dauks\source\repos\WebApi\WebApiCommonn\bin\Debug\netcoreapp3.0\WebApiCommon.runtimeconfig.json
+C:\Users\dauks\source\repos\WebApi\WebApiCommonn\bin\Debug\netcoreapp3.0\WebApiCommon.runtimeconfig.dev.json
+C:\Users\dauks\source\repos\WebApi\WebApiCommonn\bin\Debug\netcoreapp3.0\WebApiCommon.dll
+C:\Users\dauks\source\repos\WebApi\WebApiCommonn\bin\Debug\netcoreapp3.0\WebApiCommon.pdb
+C:\Users\dauks\source\repos\WebApi\WebApiCommonn\obj\Debug\netcoreapp3.0\WebApiCommon.csprojAssemblyReference.cache
+C:\Users\dauks\source\repos\WebApi\WebApiCommonn\obj\Debug\netcoreapp3.0\WebApiCommon.AssemblyInfoInputs.cache
+C:\Users\dauks\source\repos\WebApi\WebApiCommonn\obj\Debug\netcoreapp3.0\WebApiCommon.AssemblyInfo.cs
+C:\Users\dauks\source\repos\WebApi\WebApiCommonn\obj\Debug\netcoreapp3.0\WebApiCommon.dll
+C:\Users\dauks\source\repos\WebApi\WebApiCommonn\obj\Debug\netcoreapp3.0\WebApiCommon.pdb

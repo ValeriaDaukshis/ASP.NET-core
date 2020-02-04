@@ -1,0 +1,16 @@
+﻿@Model IEnumerable<WebApi.Common.DataModel.Screen>
+@using WebApi.Common.DataModel.Screen
+
+@{
+    ViewBag.Title = "About";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<p>Use this area to provide additional information.</p>
+
+@foreach (Screen x in Model)
+{
+    <p>ID @x.Id</p>
+    <p>Name @x.Name</p>
+}
